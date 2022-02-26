@@ -1,0 +1,61 @@
+/* H E A D E R   S E C T I O N  */
+
+.top-text {
+  font-family: Inconsolata;
+  font-size: 1, 5rem;
+  line-height: 1, 5rem;
+  padding-top: 3%;
+  padding-left: 3%;
+  text-transform: uppercase;
+}
+
+/* D I V   L E F T   P I C T U R E  */
+.scalecrow {
+  width: 99%;
+  padding-top: 15%;
+  max-width: 100%;
+  height: auto;
+}
+
+/* D I V  R I G H T   S T U F F  */
+.bad-news {
+  font-family: Space Mono;
+  font-weight: 700;
+  font-size: 4rem;
+  margin-left: 3%;
+  padding-top: 15%;
+  color: #333333;
+  line-height: 5.8rem;
+}
+
+.the-page {
+  line-height: 2.2rem;
+  margin-left: 3%;
+  margin-right: 30%;
+  font-family: Space Mono;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  color: #4f4f4f;
+}
+
+/*  B U T T O N  */
+.back {
+  margin-left: 3%;
+  font-family: Space Mono;
+  text-transform: uppercase;
+}
+
+/* F O O T E R   S E C T I O N  */
+.created {
+  margin-top: 5%;
+  padding-bottom: 5%;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1, 5rem;
+  text-align: center;
+  color: #bdbdbd;
+}
