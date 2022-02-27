@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/vorosvezer/404_dev_challenge/blob/main/Képernyőfotó%202022-02-27%20-%2010.57.22.png)
+![screenshot](https://github.com/vorosvezer/404_dev_challenge/blob/main/Képernyőfotó%202022-02-27%20-%2010.57.22.png?raw=true)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
