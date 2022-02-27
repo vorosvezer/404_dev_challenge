@@ -77,6 +77,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 -->
 ## Contact
 
-- Website [your-website.com](https://bacsoedina.hu)
-- GitHub [@your-username](https://{github.com/vorosvezer)
+- Website [bacsoedina.hu](https://bacsoedina.hu)
+- GitHub [@vorosvezr](https://{github.com/vorosvezer)
 - Twitter [@your-twitter](https://{twitter.com/your-username})
